@@ -8,3 +8,6 @@
 
 Δεν προκύπτει κόστος υλοποίησης.
 
+Τα δεδομένα μας τα βρήκαμε εδώ
+
+https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset 
